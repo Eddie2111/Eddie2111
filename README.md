@@ -5,7 +5,7 @@
 <br/>
 
 <p align="left">
-A passionate javascript full stack developer with 3 years of experience. Now I am advancing to DOcker, TypeScript and GoLang. No matter what I learn, I try to solve real life problems and my designing skills. I love to solve real-world problems. With that being said, thank you for visiting me!!</p>
+A passionate javascript full stack developer with 3 years of experience. Now I am advancing to Docker, TypeScript and GoLang. No matter what I learn, I try to solve real life problems and my designing skills. I love to solve real-world problems. With that being said, thank you for visiting me!!</p>
  
 <h3 align="left">Skills: </h3>
 <p align="left">
@@ -14,8 +14,7 @@ REACT / NEXT / JAVASCRIPT / TYPESCRIPT / HTML / CSS / SASS / BOOTSTRAP / TAILWIN
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/a-s-m-tareq-mahmood-4a7a96185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="7" height="30" width="40" /></a>
-<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Mahmood.Tareq.2111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
  <a href="https://join.skype.com/invite/yTkRuvgjOIxH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="" height="30" width="40" /></a>
 </p>
 
