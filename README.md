@@ -9,7 +9,7 @@ A passionate javascript full stack developer with 3 years of experience. Now I a
  
 <h3 align="left">Skills: </h3>
 <p align="left">
-REACT / NEXT / JAVASCRIPT / TYPESCRIPT / HTML / CSS / SASS / BOOTSTRAP / TAILWIND CSS / NODE JS / EXPRESS JS / MONGO DB / MONGOOSE / GRAPHQL / MYSQL / POSTGRES / REDIS / DOCKER / NGINX
+REACT / GATSBY / NEXT / JAVASCRIPT / TYPESCRIPT / HTML / CSS / SASS / BOOTSTRAP / TAILWIND CSS / NODE JS / EXPRESS JS / MONGO DB / MONGOOSE / GRAPHQL / MYSQL / POSTGRESQL / REDIS / DOCKER / NGINX / PYTHON 
 </p>
 
 <h3 align="left">Connect with me:</h3>
