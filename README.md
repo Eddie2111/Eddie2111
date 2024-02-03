@@ -7,26 +7,46 @@
 <p align="left">
 A passionate javascript full stack developer with 3 years of experience. Now I am advancing to Docker, TypeScript and GoLang. No matter what I learn, I try to solve real life problems and my designing skills. I love to solve real-world problems. With that being said, thank you for visiting me!!</p>
  
-<h3 align="left">Skills: </h3>
+<h3 align="left">Skills:</h3>
 
-<h4 align="left">Frontends -> </h3>
-<p align="left"> REACT / GATSBY / VITE / NEXT / NEXTJS14 </p>
-<h4 align="left">Languages -> </h3>
-<p align="left"> JAVASCRIPT / TYPESCRIPT / PYTHON / GoLang / C# / Java </p>
-<h4 align="left">Markups and styling -> </h3>
-<p align="left"> HTML / CSS / SASS / Markdown </p> 
-<h4 align="left">CSS Libraries -> </h3>
-<p align="left"> BOOTSTRAP / TAILWIND CSS   </p>
-<h4 align="left">RestAPI and Services (Backend) -> </h3>
-<p align="left"> NODE JS / EXPRESS JS / GRAPHQL / FLASK / FASTAPI / Socket io </p>
-<h4 align="left">Development Environments -> </h3>
-<p align="left"> DOCKER / NGINX  </p>
-<h4 align="left">Cloud Systems -> </h3>
-<p align="left"> VERCEL / RENDER / CYCLIC / AWS  </p>
-<h4 align="left">ORMs and ODMs -> </h3>
-<p align="left"> MONGOOSE / PRISMA / Motor / Benie </p>
-<h4 align="left">Databases -> </h3>
-<p align="left"> MYSQL / POSTGRESQL / REDIS / MONGO DB / DynamoDB </p>
+<table align="left">
+  <tr>
+    <td>React</td>
+    <td>React, Gatsby, Vite, Next, NextJS14</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>JavaScript, TypeScript</td>
+  </tr>
+  <tr>
+    <td>HTML/CSS</td>
+    <td>HTML, CSS, SASS</td>
+  </tr>
+  <tr>
+    <td>Frameworks</td>
+    <td>Bootstrap, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Node.js, Express.js, GraphQL, Python, Flask, FastAPI</td>
+  </tr>
+  <tr>
+    <td>DevOps</td>
+    <td>Docker, Nginx</td>
+  </tr>
+  <tr>
+    <td>Deployment</td>
+    <td>Vercel, Render, Cyclic, AWS</td>
+  </tr>
+  <tr>
+    <td>Databases</td>
+    <td>Mongoose, Prisma</td>
+  </tr>
+  <tr>
+    <td>Database Systems</td>
+    <td>MySQL, PostgreSQL, Redis, MongoDB</td>
+  </tr>
+</table>
 
 
 <h3 align="left">Connect with me:</h3>
