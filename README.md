@@ -11,40 +11,40 @@ A passionate javascript full stack developer with 3 years of experience. Now I a
 
 <table align="center">
   <tr>
-    <td>React</td>
+    <td>Frontends</td>
     <td>React, Gatsby, Vite, Next, NextJS14</td>
   </tr>
   <tr>
-    <td>JavaScript</td>
-    <td>JavaScript, TypeScript</td>
+    <td>Languages</td>
+    <td>JavaScript, TypeScript, Python, Java, C#, GoLang</td>
   </tr>
   <tr>
-    <td>HTML/CSS</td>
-    <td>HTML, CSS, SASS</td>
+    <td>Markups</td>
+    <td>HTML, CSS, SASS, Markdown</td>
   </tr>
   <tr>
-    <td>Frameworks</td>
+    <td>Stylings</td>
     <td>Bootstrap, Tailwind CSS</td>
   </tr>
   <tr>
-    <td>Backend</td>
-    <td>Node.js, Express.js, GraphQL, Python, Flask, FastAPI</td>
+    <td>Backend and RestAPI</td>
+    <td>Node.js, Express.js, GraphQL, Flask, FastAPI, Amplify</td>
   </tr>
   <tr>
     <td>DevOps</td>
     <td>Docker, Nginx</td>
   </tr>
   <tr>
-    <td>Deployment</td>
+    <td>Deployments and Cloud</td>
     <td>Vercel, Render, Cyclic, AWS</td>
   </tr>
   <tr>
     <td>Databases</td>
-    <td>Mongoose, Prisma</td>
+    <td>Mongoose, Prisma, Drizzle, Beanie, Motor</td>
   </tr>
   <tr>
     <td>Database Systems</td>
-    <td>MySQL, PostgreSQL, Redis, MongoDB</td>
+    <td>MySQL, PostgreSQL, Redis, MongoDB, Neo4j</td>
   </tr>
 </table>
 <br/>
