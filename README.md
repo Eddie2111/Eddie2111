@@ -9,15 +9,24 @@ A passionate javascript full stack developer with 3 years of experience. Now I a
  
 <h3 align="left">Skills: </h3>
 
-<p align="left"> REACT / GATSBY / VITE / NEXT / NEXTJS14 / </p>
-<p align="left"> JAVASCRIPT / TYPESCRIPT /  </p>
-<p align="left"> HTML / CSS / SASS / </p> 
-<p align="left"> BOOTSTRAP / TAILWIND CSS /  </p>
-<p align="left"> NODE JS / EXPRESS JS / GRAPHQL / PYTHON / FLASK / FASTAPI / </p>
-<p align="left"> DOCKER / NGINX / </p>
-<p align="left"> VERCEL / RENDER / CYCLIC / AWS / </p>
-<p align="left"> MONGOOSE / PRISMA / </p>
-<p align="left"> MYSQL / POSTGRESQL / REDIS / MONGO DB / </p>
+<h4 align="left">Frontends -> </h3>
+<p align="left"> REACT / GATSBY / VITE / NEXT / NEXTJS14 </p>
+<h4 align="left">Languages -> </h3>
+<p align="left"> JAVASCRIPT / TYPESCRIPT / PYTHON / GoLang / C# / Java </p>
+<h4 align="left">Markups and styling -> </h3>
+<p align="left"> HTML / CSS / SASS / Markdown </p> 
+<h4 align="left">CSS Libraries -> </h3>
+<p align="left"> BOOTSTRAP / TAILWIND CSS   </p>
+<h4 align="left">RestAPI and Services (Backend) -> </h3>
+<p align="left"> NODE JS / EXPRESS JS / GRAPHQL / FLASK / FASTAPI / Socket io </p>
+<h4 align="left">Development Environments -> </h3>
+<p align="left"> DOCKER / NGINX  </p>
+<h4 align="left">Cloud Systems -> </h3>
+<p align="left"> VERCEL / RENDER / CYCLIC / AWS  </p>
+<h4 align="left">ORMs and ODMs -> </h3>
+<p align="left"> MONGOOSE / PRISMA / Motor / Benie </p>
+<h4 align="left">Databases -> </h3>
+<p align="left"> MYSQL / POSTGRESQL / REDIS / MONGO DB / DynamoDB </p>
 
 
 <h3 align="left">Connect with me:</h3>
