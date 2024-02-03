@@ -8,9 +8,17 @@
 A passionate javascript full stack developer with 3 years of experience. Now I am advancing to Docker, TypeScript and GoLang. No matter what I learn, I try to solve real life problems and my designing skills. I love to solve real-world problems. With that being said, thank you for visiting me!!</p>
  
 <h3 align="left">Skills: </h3>
-<p align="left">
-REACT / GATSBY / NEXT / JAVASCRIPT / TYPESCRIPT / HTML / CSS / SASS / BOOTSTRAP / TAILWIND CSS / NODE JS / EXPRESS JS / MONGO DB / MONGOOSE / GRAPHQL / MYSQL / POSTGRESQL / REDIS / DOCKER / NGINX / PYTHON 
-</p>
+
+<p align="left"> REACT / GATSBY / VITE / NEXT / NEXTJS14 / </p>
+<p align="left"> JAVASCRIPT / TYPESCRIPT /  </p>
+<p align="left"> HTML / CSS / SASS / </p> 
+<p align="left"> BOOTSTRAP / TAILWIND CSS /  </p>
+<p align="left"> NODE JS / EXPRESS JS / GRAPHQL / PYTHON / FLASK / FASTAPI / </p>
+<p align="left"> DOCKER / NGINX / </p>
+<p align="left"> VERCEL / RENDER / CYCLIC / AWS / </p>
+<p align="left"> MONGOOSE / PRISMA / </p>
+<p align="left"> MYSQL / POSTGRESQL / REDIS / MONGO DB / </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
