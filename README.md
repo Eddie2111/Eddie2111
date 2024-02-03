@@ -9,7 +9,7 @@ A passionate javascript full stack developer with 3 years of experience. Now I a
  
 <h3 align="left">Skills:</h3>
 
-<table align="left">
+<table>
   <tr>
     <td>React</td>
     <td>React, Gatsby, Vite, Next, NextJS14</td>
@@ -47,6 +47,7 @@ A passionate javascript full stack developer with 3 years of experience. Now I a
     <td>MySQL, PostgreSQL, Redis, MongoDB</td>
   </tr>
 </table>
+<br/>
 
 
 <h3 align="left">Connect with me:</h3>
