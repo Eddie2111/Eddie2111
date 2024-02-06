@@ -46,6 +46,10 @@ A passionate javascript full stack developer with 3 years of experience. Now I a
     <td>Database Systems</td>
     <td>MySQL, PostgreSQL, Redis, MongoDB, Neo4j</td>
   </tr>
+  <tr>
+    <td>Clouds and Deployments</td>
+    <td>AWS, Vercel, Heroku, Render, Cyclic, Cloudinary</td>
+  </tr>
 </table>
 <br/>
 
