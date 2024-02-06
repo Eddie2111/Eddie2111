@@ -39,7 +39,7 @@ A passionate javascript full stack developer with 3 years of experience. Now I a
     <td>Vercel, Render, Cyclic, AWS</td>
   </tr>
   <tr>
-    <td>Databases</td>
+    <td>ORM's and ODM's</td>
     <td>Mongoose, Prisma, Drizzle, Beanie, Motor</td>
   </tr>
   <tr>
