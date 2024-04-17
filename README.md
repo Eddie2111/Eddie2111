@@ -5,7 +5,7 @@
 <br/>
 
 <p align="left">
-A passionate javascript full stack developer with 3 years of experience. Now I am stuck with Docker, k8, tests, TypeScript and GoLang but advancing to `The Spring Framework`. No matter what I learn, I try to solve real life problems and my designing skills. I love to solve real-world problems. With that being said, thank you for visiting me!!</p>
+A passionate backend-focused full stack developer with 3 years of experience. Now I am stuck with Docker, k8, tests, TypeScript and GoLang but advancing to `Blockchain wtih Ethreum and Hyperledger Fabric`. No matter what I learn, I try to solve real life problems and my designing skills. I love to solve real-world problems. With that being said, thank you for visiting me!!</p>
  
 <h3 align="left">Skills:</h3>
 
