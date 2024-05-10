@@ -32,7 +32,7 @@ A passionate backend-focused full stack developer with 3 years of experience. No
   </tr>
   <tr>
     <td>DevOps</td>
-    <td>Docker, Nginx</td>
+    <td>Docker, Kubernetes, Nginx</td>
   </tr>
   <tr>
     <td>Deployments and Cloud</td>
