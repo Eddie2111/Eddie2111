@@ -12,7 +12,7 @@ A passionate backend-focused full stack developer with 3 years of experience. No
 <table align="center">
   <tr>
     <td>Frontends</td>
-    <td>React, Gatsby, Vite, Next, NextJS14</td>
+    <td>React, Redux, Gatsby, Vite, Next, NextJS14</td>
   </tr>
   <tr>
     <td>Languages</td>
