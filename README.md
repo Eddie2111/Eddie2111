@@ -28,15 +28,19 @@ A passionate backend-focused full stack developer with 3 years of experience. No
   </tr>
   <tr>
     <td>Backend and RestAPI</td>
-    <td>Node.js, Express.js, GraphQL, Flask, FastAPI, Amplify</td>
+    <td>Node.js, Express.js, GraphQL, Flask, FastAPI, NestJS</td>
   </tr>
   <tr>
     <td>DevOps</td>
     <td>Docker, Kubernetes, Nginx</td>
   </tr>
+   <tr>
+    <td>Message Brokers</td>
+    <td>RabbitMQ, Kafka</td>
+  </tr>
   <tr>
     <td>Deployments and Cloud</td>
-    <td>Vercel, Render, Cyclic, AWS</td>
+    <td>Vercel, Render, ~Cyclic~, AWS</td>
   </tr>
   <tr>
     <td>ORM's and ODM's</td>
@@ -48,7 +52,7 @@ A passionate backend-focused full stack developer with 3 years of experience. No
   </tr>
   <tr>
     <td>Clouds and Deployments</td>
-    <td>AWS, Vercel, Heroku, Render, Cyclic, Cloudinary</td>
+    <td>AWS, Vercel, Heroku, Render, Cyclic, Cloudinary, Amplify</td>
   </tr>
 </table>
 <br/>
